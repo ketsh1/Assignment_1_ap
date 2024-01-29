@@ -12,8 +12,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/DataDavD/snippetbox/pkg/models/mock"
 	"github.com/golangcollege/sessions"
+	"github.com/ketsh1/snippetbox/pkg/models/mock"
 )
 
 // Define a regular expression which captures the CSRF token value from the HTML for our

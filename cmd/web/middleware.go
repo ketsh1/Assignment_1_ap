@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/DataDavD/snippetbox/pkg/models"
 	"github.com/justinas/nosurf"
+	"github.com/ketsh1/snippetbox/pkg/models"
 )
 
 func secureHeaders(next http.Handler) http.Handler {
