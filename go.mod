@@ -1,4 +1,4 @@
-module github.com/DataDavD/snippetbox
+module github.com/ketsh1/snippetbox
 
 go 1.15
 
